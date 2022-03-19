@@ -1,0 +1,21 @@
+@media screen and (max-width: 600px){
+    header .container{
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 15px;
+        
+    }
+}
+
+@media screen and (max-width: 885px){
+    .botoes button{
+        margin-bottom: 10px;
+        width: 300px;
+    }
+}
+
+@media screen and (max-width: 1450px){
+    main .container{
+        text-align: justify;
+    }
+}
